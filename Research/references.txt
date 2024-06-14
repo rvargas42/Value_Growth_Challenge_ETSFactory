@@ -1,1 +1,5 @@
 Industry Facts : https://apps.bea.gov/industry/factsheet/?_gl=1*1k1egu0*_ga*OTY2ODIxNDg1LjE3MTgwMjIwODQ.*_ga_J4698JNNFT*MTcxODAyMjA4My4xLjEuMTcxODAyMjEyNS4xOC4wLjA.
+
+//TODO: 
+    - Download sectors history (https://finance.yahoo.com/sectors/)
+    - Download exports imports data

@@ -1,3 +1,5 @@
 requests
-dotenv
 yfinance
+seaborn
+python-dotenv
+tradingeconomics 
