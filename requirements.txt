@@ -1,6 +1,8 @@
 requests
+tabulate
 statsmodels
 scikit-learn
+tensorflow
 yfinance
 investpy
 scipy
