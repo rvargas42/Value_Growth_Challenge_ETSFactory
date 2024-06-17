@@ -1,5 +1,10 @@
 requests
+statsmodels
+scikit-learn
 yfinance
+investpy
+scipy
+investiny
 seaborn
 python-dotenv
-tradingeconomics 
+tradingeconomics
