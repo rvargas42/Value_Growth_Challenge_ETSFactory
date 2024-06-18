@@ -1,5 +1,6 @@
 requests
 tabulate
+backtesting
 statsmodels
 scikit-learn
 tensorflow
