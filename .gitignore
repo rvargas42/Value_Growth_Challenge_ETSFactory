@@ -1,5 +1,5 @@
 #Large Files and Data files
-.csv
+*.csv
 .pkl
 
 # Byte-compiled / optimized / DLL files
