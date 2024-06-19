@@ -1,5 +1,5 @@
 | Strategies                                   | cumulative returns   |
 |----------------------------------------------|----------------------|
-| SPYV ETF only                                | 11.34%               |
-| SPYG ETF only                                | 5.03%                |
-| Value/Growth Momment Classification Strategy | 24.49%               |
+| SPYV ETF only                                | 9.43%                |
+| SPYG ETF only                                | 6.94%                |
+| Value/Growth Momment Classification Strategy | 20.51%               |

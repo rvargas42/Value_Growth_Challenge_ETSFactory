@@ -3,6 +3,7 @@ tabulate
 backtesting
 statsmodels
 scikit-learn
+imbalanced-learn
 tensorflow
 yfinance
 investpy

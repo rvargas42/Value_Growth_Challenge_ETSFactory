@@ -1,0 +1,5 @@
+| model              | test_score   |
+|--------------------|--------------|
+| KNN                | 0.92%        |
+| RandomForest       | 0.92%        |
+| AdaBoostClassifier | 0.78%        |
